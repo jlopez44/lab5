@@ -1,0 +1,80 @@
+body {
+		margin:0;
+		background-image: url("img/iss.jpg");
+		background-size: 1800px 900px;
+		background-repeat: no-repeat;
+}
+
+h1 {
+		font-family: 'Times New Roman';
+		text-align: center;
+		background-color: lightblue;
+		width: 50%;
+		margin: auto;
+}
+
+a:hover {
+		background-color:yellow;
+}
+
+p {
+		font-family: 'Times New Roman';
+		text-align:center;
+		background-color:lightblue;
+		width:20%;
+		margin:auto;
+		margin-top: 50px;
+}
+
+.jupiter { 
+	color: white;
+		background-color: black;
+		text-align:center;
+		font-family: 'Times New Roman';
+}
+
+.saturn {
+	color: white;
+		background-color: black;
+		text-align:center;
+		font-family:'Times New Roman';
+}
+
+.uranus {
+	color: white;
+		background-color: black;
+		text-align:center;
+		font-family:'Times New Roman', bold;
+}
+
+.neptune {
+	color: white;
+		background-color: black;
+		text-align:center;
+		font-family:'Times New Roman';
+}
+
+#names {
+	color: white;
+		background-color: black;
+		font-family: 'Times New Roman', cursive;
+}
+
+table.center {
+	width:80%;
+		margin-left:auto;
+		margin-right:auto;
+}
+
+img {
+		width:200px;
+		height:200px;
+		padding:50px;
+		border:50px;
+}
+
+.column {
+		text-align: left;
+		background-color: SlateBlue;
+		font-family: 'Verdana', bold;
+}
